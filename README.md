@@ -1,0 +1,2 @@
+# Supply-Chain-Demand-Sales-KPI-Dashboard-AdventureWorks-Dataset-
+This dashboard analyzes demand patterns across products, customers, and regions. Although the dataset is sales-based, the insights help supply chain teams plan procurement, safety stock, warehouse positioning, and distribution networks. By identifying high-demand SKUs and regional sales hotspots, this dashboard supports smarter inventory allocation
